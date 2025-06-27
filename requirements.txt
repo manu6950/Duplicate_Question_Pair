@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+numpy
+nltk
+fuzzywuzzy
+python-Levenshtein
